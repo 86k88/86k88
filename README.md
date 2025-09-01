@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-[![metrics](https://raw.githubusercontent.com/86k88/86k88/main/github-metrics.svg)](#)
+![Metrics](./github-metrics.svg)
 
 ## Language experience
 **Comfortable with:**  
